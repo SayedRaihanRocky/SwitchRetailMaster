@@ -1,0 +1,7 @@
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\bin\Debug\SW_RetailManagement_BLL.dll
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\bin\Debug\SW_RetailManagement_BLL.pdb
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\bin\Debug\SW_RetailManagement_DAL.dll
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\bin\Debug\SW_RetailManagement_DAL.pdb
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\obj\Debug\SW_RetailManagement_BLL.csprojResolveAssemblyReference.cache
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\obj\Debug\SW_RetailManagement_BLL.dll
+D:\My Projects\SWITCH\Desktop Application\Retail Management\Core\Code\SW_RetailManagement_Core\SW_RetailManagement_BLL\obj\Debug\SW_RetailManagement_BLL.pdb

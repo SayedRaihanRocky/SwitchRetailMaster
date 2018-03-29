@@ -1,0 +1,2 @@
+# SwitchRetailMaster
+Retail Management System
